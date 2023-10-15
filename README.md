@@ -2,7 +2,7 @@
 > MERN Stack Foundation Challenge for Ksatria Mitra Internship Application
 
 ## Description
-This project is a challenge for Ksatria Mitra Internship Application. This project is a simple application using MERN Stack (MongoDB, Express, React, Node.js) to count the number of visitors to the website. This project is also deployed on Heroku, you can check it out [here](https://express-cikarang.vercel.app/).
+This project is a challenge for Ksatria Mitra Internship Application. This project is a simple application using MERN Stack (MongoDB, Express, React, Node.js) to count the number of visitors to the website. This project is also deployed on Vercel, you can check it out [here](https://express-cikarang.vercel.app/).
 
 ## How to Run Locally
 1. Clone this repository
