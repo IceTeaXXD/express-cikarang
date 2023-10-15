@@ -1,15 +1,14 @@
-# README
+# Express Cikarang
+> MERN Stack Foundation Challenge for Ksatria Mitra Internship Application
 
-This is the [Express](https://expressjs.com) [Hello world](https://expressjs.com/en/starter/hello-world.html) example on [Render](https://render.com).
+## Description
+This project is a challenge for Ksatria Mitra Internship Application. This project is a simple application using MERN Stack (MongoDB, Express, React, Node.js) to count the number of visitors to the website. This project is also deployed on Heroku, you can check it out [here](https://express-cikarang.vercel.app/).
 
-The app in this repo is deployed at [https://express.onrender.com](https://express.onrender.com).
+## How to Run Locally
+1. Clone this repository
+2. Open the terminal and go to the project directory
+3. Run `npm install` to install all dependencies
+4. Run `npm start` to start the server
 
-## Deployment
-
-See https://render.com/docs/deploy-node-express-app or follow the steps below:
-
-Create a new web service with the following values:
-  * Build Command: `yarn`
-  * Start Command: `node app.js`
-
-That's it! Your web service will be live on your Render URL as soon as the build finishes.
+## Author
+Ahmad Nadil
